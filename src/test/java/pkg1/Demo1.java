@@ -9,7 +9,7 @@ public class Demo1 {
 		one o1=new one();
 		o1.bengaluru();
 		o1.chennai();
-		
+		//git comments checking
 		//calling methods of another class two
 		two t1=new two();
 		t1.mumbai();
